@@ -1,4 +1,4 @@
-##  De fato sou o Matheus Leone, dono deste perfil 😼
+##  De fato, sou o Matheus Leone, dono desse perfil 😼
 <div align="center">
   <a href="https://github.com/Matheu5Leone">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheu5Leone&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
